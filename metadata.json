@@ -1,0 +1,6 @@
+{
+  "name": "Zaid Live TV",
+  "description": "Fast offline-cached Android Live TV streaming app with one-click HLS playback, swipe brightness and volume gestures, quality controls, remote M3U auto-refresh, and bilingual English/Urdu RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

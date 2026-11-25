@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zaid Live TV</string>
+    <string name="app_name_urdu">زید لائیو ٹی وی</string>
+    <string name="developer_name">Zaid Ashiq</string>
+    <string name="developer_phone">+92 329 9931199</string>
+    <string name="whatsapp_url">https://wa.me/923299931199</string>
+    <string name="call_uri">tel:+923299931199</string>
+    <string name="cd_app_logo">Zaid Live TV logo</string>
+    <string name="cd_search_clear">Clear search</string>
+    <string name="cd_toggle_language">Switch between English and Urdu</string>
+    <string name="cd_import_m3u">Add or import M3U8 stream</string>
+    <string name="cd_developer_info">Open developer contact information</string>
+    <string name="cd_favorite_toggle">Toggle favorite channel</string>
+    <string name="cd_play_pause">Play or pause stream</string>
+    <string name="cd_mute_toggle">Mute or unmute audio</string>
+    <string name="cd_quality_settings">Video quality settings</string>
+    <string name="cd_pip_mode">Enter Picture-in-Picture mode</string>
+    <string name="cd_fullscreen_toggle">Toggle fullscreen mode</string>
+    <string name="cd_close_player">Close video player</string>
+    <string name="cd_retry_stream">Retry live stream</string>
+</resources>
